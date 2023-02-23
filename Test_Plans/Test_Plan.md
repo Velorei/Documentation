@@ -10,21 +10,20 @@
 |23.01.2023|1.0|Creating|Valeriia Dudenko|
 
 # Table of Contents
-1. Introduce
-	1.1. Purpose
-	1.2. Source data
-	1.3. Scope
+1. Introduce<br/>
+	1.1. Purpose<br/>
+	1.2. Source data<br/>
+	1.3. Scope<br/>
 2. Conditions for testing
-3. Testing strategy
-	3.1. Testing types
-		3.1.1. Functional testing
-		3.1.2. Cross-browser testing
-		3.1.3. Regression testing and verification of fixed defects
-		3.1.4. Testing the design
+3. Testing strategy<br/>
+	3.1. Testing types<br/>
+		3.1.1. Functional testing<br/>
+		3.1.2. Cross-browser testing<br/>
+		3.1.3. Regression testing and verification of fixed defects<br/>
+		3.1.4. Testing the design<br/>
 4. Testing schedule
-5. Final results
+5. Final results<br/>
 	5.1. Resume
-
 
 # 1. Introduce
 ## 1.1 Purpose
