@@ -3,7 +3,7 @@
 |ID|1|
 |Data Submited|29.01.23|
 |Priority|normal|
-|Severity|text|
+|Severity|low|
 |Reporter|Valeriia D|
 |Reproducibility|always|
 |Platform|Mobile|
