@@ -1,6 +1,6 @@
 |Summary|Checking the "Checkout" form using the invalid data||
 |---|---|---|
-|Preconditions|1. The site http: //opencart.qatestlab.net/ is opened;<br/>2. The "Dry Cat Food" is added to the "Cart"|
+|Preconditions|1. The site http://opencart.qatestlab.net/ is opened;<br/>2. The "Dry Cat Food" is added to the "Cart"|
 |#|Step actions|Expected Results|
 |1|Click the "Cart" button|The "Cart" drop-down list is opended|
 |2|Click the "Checkout" button|The "Checkout" page is opened|
