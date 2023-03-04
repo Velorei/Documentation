@@ -1,6 +1,6 @@
 |Summary|Checking the "Checkout" form using the valid data||
 |---|---|---|
-|Preconditions|1. The site http: //opencart.qatestlab.net/ is opened;<br/>2. The "Dry Cat Food" is added to the "Cart";<br/>3. The "Cart" page is opened.|
+|Preconditions|1. The site http://opencart.qatestlab.net/ is opened;<br/>2. The "Dry Cat Food" is added to the "Cart";<br/>3. The "Cart" page is opened.|
 |#|Step actions|Expected Results|
 |1|Click the "Checkout" button|The "Checkout" page is opened|
 |2|Mark the "Guest Checkout" checkbox in the "New Customer" section|The "Guest Checkout" checkbox in the "New Customer" section is marked|
